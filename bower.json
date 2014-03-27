@@ -1,0 +1,7 @@
+{
+  "name": "yii2-x-editable",
+  "version": "0.0.1",
+  "dependencies": {
+    "x-editable": "1.5.1"
+  }
+}
