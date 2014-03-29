@@ -16,6 +16,7 @@ class XEditable extends \yii\base\widget
 
         \Yii::setAlias('@xeditable', dirname(__FILE__));
         $this->registerAssets();
+        //test
     }
 
     public function run()
